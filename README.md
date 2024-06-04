@@ -1,2 +1,5 @@
 # 8_Puzzle
-8Puzzle A-Star Unity 
+Phan Thanh Dat - HUCE
+
+8Puzzle using A-Star Algorithm
+Build WebGL with Unity 
